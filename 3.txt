@@ -1,1 +1,2 @@
 dodanie textu do 3.txt
+10:28 dodanie textu
