@@ -1,2 +1,3 @@
 dodanie textu do 3.txt
-10:28 dodanie textu
+10:28 dodanie text
+10:31 dodanie text
